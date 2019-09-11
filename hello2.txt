@@ -1,3 +1,5 @@
+// global user.name is ivdona2
+// global user.email is ivdona.kim@gmail.com
 // ivdona2 사용자 수정
 // github에서 수정
 // 2019.9.11
